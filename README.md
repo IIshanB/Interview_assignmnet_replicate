@@ -35,6 +35,13 @@ Responses
 {
   "error": "Invalid input parameters."
 }
+500 Internal Server Error
+
+    Description: An error occurred during image generation.
+    Response Body:
+{
+  "error": "Error during image generation."
+}
 
 
 ### Explanation of Formatting
